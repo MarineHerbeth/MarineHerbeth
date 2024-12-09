@@ -1,14 +1,14 @@
-# Hi, I'm [Marine Herbeth](https://github.com/MarineHerbeth)
+# Hi, I'm [Marine Herbeth](https://github.com/MarineHerbeth) 👋
 
 ![Linkedin Badge](https://img.shields.io/badge/-MarineHerbeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Marine-Herbeth/)
 [![Gmail Badge](https://img.shields.io/badge/-m.herbeth@outlook.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.herbeth@outlook.fr)](mailto:m.herbeth@outlook.fr)
 
-### About me
+### ✏️ About me :
 
-I am currently undergoing a career change and am **actively training** to become a web **developer/integrator**.  
+I am currently undergoing a career change and am **actively training** to become a **web developer/integrator**.  
 My goal is to master the tools needed to build modern, accessible and performant websites and web applications.
 
-### I'm currently learning :
+### 🧠 I'm currently learning :
 
 ![Swift Logo](https://www.vectorlogo.zone/logos/swift/swift-ar21.svg)
 ![HTML Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
