@@ -6,12 +6,15 @@
 ### About me
 
 I am currently undergoing a career change and am **actively training** to become a web **developer/integrator**.  
-My goal is to master the tools needed to build modern; accessible and performant websites and web applications.
+My goal is to master the tools needed to build modern, accessible and performant websites and web applications.
 
 ### I'm currently learning :
 
+![Swift Logo](https://www.vectorlogo.zone/logos/swift/swift-ar21.svg)
 ![HTML Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
 ![CSS Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
 ![JavaScript Logo](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
 
 ![MarineHerbeth's Stats](https://github-readme-stats.vercel.app/api?username=MarineHerbeth&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+## ⬇️ Check out my repos ⬇️
