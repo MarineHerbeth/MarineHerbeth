@@ -1,6 +1,6 @@
 # Hi, I'm [Marine Herbeth](https://github.com/MarineHerbeth)
 
-![Linkedin Badge](https://img.shields.io/badge/-MarineHerbeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marine-herbeth)
+  [![Linkedin Badge](https://img.shields.io/badge/-MarineHerbeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marine-herbeth)](www.linkedin.com/in/marine-herbeth)
 [![Gmail Badge](https://img.shields.io/badge/-m.herbeth@outlook.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.herbeth@outlook.fr)](mailto:m.herbeth@outlook.fr)
 
 ### 🚀 About me
